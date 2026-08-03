@@ -1,1 +1,0 @@
-minhaz.txt
