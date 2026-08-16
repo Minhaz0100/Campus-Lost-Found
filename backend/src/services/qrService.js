@@ -1,3 +1,4 @@
+//QR service creates the qr code for the listed items in the platform
 import QRCode from 'qrcode';
 
 export const generateItemQR = async (itemId, baseUrl) => {
