@@ -1,3 +1,4 @@
+//ai serviice / image recognition service
 import sharp from 'sharp';
 import Tesseract from 'tesseract.js';
 
