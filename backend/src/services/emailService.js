@@ -1,3 +1,4 @@
+//emailservice for email notifications
 import nodemailer from 'nodemailer';
 
 let transporter = null;
