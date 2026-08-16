@@ -1,4 +1,4 @@
-//notification service fot notifications
+//notification service fot notifications 
 import admin from 'firebase-admin';
 import Notification from '../models/Notification.js';
 
