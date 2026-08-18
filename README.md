@@ -4,9 +4,11 @@
 ![MERN](https://img.shields.io/badge/Stack-MERN%20%2B%20Vite%20%2B%20Tailwind-111827?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Active-success?style=for-the-badge)
 
-Campus Lost & Found is a full-stack campus recovery platform built to help students report lost or found items, discover matches on an interactive map, verify claims securely, and chat in real time with the person who posted the item.
+Campus Lost & Found is a full-stack campus recovery platform built to help students report lost or found items, discover matches on an interactive map, verify claims securely, and chat in real time with other users.
 
 The app combines a React frontend, an Express/MongoDB backend, AI-assisted matching, QR-based item verification, notifications, and admin moderation into one cohesive workflow.
+
+**🚀 [Live Demo](https://campus-lost-and-found-phi.vercel.app)**
 
 ## Highlights
 
