@@ -85,7 +85,7 @@ MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 JWT_EXPIRES_IN=7d
 ADMIN_EMAIL=admin@campus.edu
-ADMIN_PASSWORD=admin123456
+ADMIN_PASSWORD=***********
 ```
 
 Optional integrations:
